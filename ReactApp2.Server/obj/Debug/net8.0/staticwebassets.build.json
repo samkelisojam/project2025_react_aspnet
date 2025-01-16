@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "fVIMMSvXCrvHL0u4sQqv6EaYX/x71SWSdXSregISDXU=",
+  "Source": "ReactApp2.Server",
+  "BasePath": "_content/ReactApp2.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\reactapp2.client.esproj",
+      "Version": 2,
+      "Source": "reactapp2.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

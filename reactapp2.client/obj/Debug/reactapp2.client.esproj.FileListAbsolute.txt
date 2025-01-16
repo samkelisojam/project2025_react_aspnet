@@ -1,0 +1,2 @@
+C:\Users\q658366\source\repos\ReactApp2\reactapp2.client\obj\Debug\reactapp2.client.esproj.CoreCompileInputs.cache
+C:\Users\q658366\source\repos\ReactApp2\project2025_react_aspnet\reactapp2.client\obj\Debug\reactapp2.client.esproj.CoreCompileInputs.cache
