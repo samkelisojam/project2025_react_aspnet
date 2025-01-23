@@ -36,5 +36,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.MapFallbackToFile("/index.html");
+ SeedData.EnsureEntityPopulated(app);
 
 app.Run();
