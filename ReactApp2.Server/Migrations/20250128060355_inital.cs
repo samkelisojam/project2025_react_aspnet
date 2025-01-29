@@ -5,7 +5,7 @@
 namespace ReactApp2.Server.Migrations
 {
     /// <inheritdoc />
-    public partial class inital1 : Migration
+    public partial class inital : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
