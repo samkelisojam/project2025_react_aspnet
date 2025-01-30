@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\features\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\productsdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\features\\productsdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\app\\layout\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\app\\layout\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\catalog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\features\\catalog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\productlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\features\\productlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\app\\layout\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\app\\layout\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\catalog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\features\\catalog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\app\\layout\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\app\\layout\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\aboutpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\features\\aboutpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\welcomemessage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -23,18 +55,6 @@
       "RelativeMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\productlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\features\\productlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Migrations\\20250127102511_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReactApp2.Server\\Migrations\\20250127102511_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReactApp2.Server\\Migrations\\20250127102051_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7771494F-0B07-4973-9C74-AD90C0176681}|reactapp2.client\\reactapp2.client.esproj|solutionrelative:reactapp2.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.server\\reactapp2.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\reactapp2.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|c:\\users\\q658366\\source\\repos\\reactapp2\\project2025_react_aspnet\\reactapp2.server\\migrations\\20250128060355_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ED52197-6B05-46C3-A9FB-756C57D666FA}|ReactApp2.Server\\ReactApp2.Server.csproj|solutionrelative:reactapp2.server\\migrations\\20250128060355_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,37 +74,191 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ReactApp2.Server\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ReactApp2.Server\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJkAAAARAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwJkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T08:46:24.135Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsDetails.jsx",
+              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\ProductsDetails.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\features\\ProductsDetails.jsx",
+              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\ProductsDetails.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\features\\ProductsDetails.jsx",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-30T08:02:35.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\Home.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\features\\Home.jsx",
+              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\Home.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\features\\Home.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-30T08:01:45.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutPage.jsx",
+              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\AboutPage.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\features\\AboutPage.jsx",
+              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\AboutPage.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\features\\AboutPage.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-30T07:58:18.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ReactApp2.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\appsettings.json",
+              "RelativeToolTip": "ReactApp2.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T10:20:56.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250127102051_inital.cs",
+              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Migrations\\20250127102051_inital.cs",
+              "RelativeDocumentMoniker": "ReactApp2.Server\\Migrations\\20250127102051_inital.cs",
+              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Migrations\\20250127102051_inital.cs",
+              "RelativeToolTip": "ReactApp2.Server\\Migrations\\20250127102051_inital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:20:51.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catalog.jsx",
+              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\Catalog.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\features\\Catalog.jsx",
+              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\Catalog.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\features\\Catalog.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-27T08:50:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\APP\\Layout\\App.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\APP\\Layout\\App.jsx",
+              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\APP\\Layout\\App.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\APP\\Layout\\App.jsx",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T10:50:30.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\main.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-27T08:57:27.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductList.jsx",
+              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\ProductList.jsx",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\features\\ProductList.jsx",
+              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\ProductList.jsx",
+              "RelativeToolTip": "reactapp2.client\\src\\features\\ProductList.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-27T09:54:06.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "ReactApp2.Server\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Data\\SeedData.cs",
+              "RelativeToolTip": "ReactApp2.Server\\Data\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:36:52.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NavBar.jsx",
               "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\APP\\Layout\\NavBar.jsx",
               "RelativeDocumentMoniker": "reactapp2.client\\src\\APP\\Layout\\NavBar.jsx",
               "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\APP\\Layout\\NavBar.jsx",
               "RelativeToolTip": "reactapp2.client\\src\\APP\\Layout\\NavBar.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-01-29T05:38:54.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\APP\\Layout\\App.css",
+              "RelativeDocumentMoniker": "reactapp2.client\\src\\APP\\Layout\\App.css",
+              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\APP\\Layout\\App.css",
+              "RelativeToolTip": "reactapp2.client\\src\\APP\\Layout\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-30T09:17:54.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250127102511_initial.cs",
+              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Migrations\\20250127102511_initial.cs",
+              "RelativeDocumentMoniker": "ReactApp2.Server\\Migrations\\20250127102511_initial.cs",
+              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Migrations\\20250127102511_initial.cs",
+              "RelativeToolTip": "ReactApp2.Server\\Migrations\\20250127102511_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:25:11.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "WelcomeMessage.jsx",
               "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\WelcomeMessage.jsx",
               "RelativeDocumentMoniker": "reactapp2.client\\src\\features\\WelcomeMessage.jsx",
@@ -105,117 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250127102511_initial.cs",
-              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Migrations\\20250127102511_initial.cs",
-              "RelativeDocumentMoniker": "ReactApp2.Server\\Migrations\\20250127102511_initial.cs",
-              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Migrations\\20250127102511_initial.cs",
-              "RelativeToolTip": "ReactApp2.Server\\Migrations\\20250127102511_initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T10:25:11.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "ReactApp2.Server\\appsettings.json",
-              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\appsettings.json",
-              "RelativeToolTip": "ReactApp2.Server\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T10:20:56.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250127102051_inital.cs",
-              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Migrations\\20250127102051_inital.cs",
-              "RelativeDocumentMoniker": "ReactApp2.Server\\Migrations\\20250127102051_inital.cs",
-              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Migrations\\20250127102051_inital.cs",
-              "RelativeToolTip": "ReactApp2.Server\\Migrations\\20250127102051_inital.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T10:20:51.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "ReactApp2.Server\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Data\\SeedData.cs",
-              "RelativeToolTip": "ReactApp2.Server\\Data\\SeedData.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAYwB8AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T10:10:17.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductList.jsx",
-              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\ProductList.jsx",
-              "RelativeDocumentMoniker": "reactapp2.client\\src\\features\\ProductList.jsx",
-              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\ProductList.jsx",
-              "RelativeToolTip": "reactapp2.client\\src\\features\\ProductList.jsx",
-              "ViewState": "AQIAABsAAAAAAAAAAAAiwDkAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-27T09:54:06.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "main.jsx",
-              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\main.jsx",
-              "RelativeDocumentMoniker": "reactapp2.client\\src\\main.jsx",
-              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\main.jsx",
-              "RelativeToolTip": "reactapp2.client\\src\\main.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-27T08:57:27.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Catalog.jsx",
-              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\Catalog.jsx",
-              "RelativeDocumentMoniker": "reactapp2.client\\src\\features\\Catalog.jsx",
-              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\features\\Catalog.jsx",
-              "RelativeToolTip": "reactapp2.client\\src\\features\\Catalog.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-27T08:50:33.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\APP\\Layout\\App.jsx",
-              "RelativeDocumentMoniker": "reactapp2.client\\src\\APP\\Layout\\App.jsx",
-              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\reactapp2.client\\src\\APP\\Layout\\App.jsx",
-              "RelativeToolTip": "reactapp2.client\\src\\APP\\Layout\\App.jsx",
-              "ViewState": "AQIAACMAAAAAAAAAAAAQwFoAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-22T10:50:30.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20250128060355_inital.cs",
-              "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Migrations\\20250128060355_inital.cs",
-              "RelativeDocumentMoniker": "ReactApp2.Server\\Migrations\\20250128060355_inital.cs",
-              "ToolTip": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\Migrations\\20250128060355_inital.cs",
-              "RelativeToolTip": "ReactApp2.Server\\Migrations\\20250128060355_inital.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T06:03:55.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ReactApp2.Server.http",
               "DocumentMoniker": "C:\\Users\\q658366\\source\\repos\\ReactApp2\\project2025_react_aspnet\\ReactApp2.Server\\ReactApp2.Server.http",
               "RelativeDocumentMoniker": "ReactApp2.Server\\ReactApp2.Server.http",
