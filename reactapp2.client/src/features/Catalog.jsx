@@ -30,9 +30,7 @@ function Catalog({ addProduct, addToCart }) {
                 <Route path="/" element={
                     <>
                         <ProductList products={products} addToCart={addToCart} />
-                        <Button variant="contained" color="primary" onClick={addProduct} style={{ marginTop: '20px' }}>
-                            Add product
-                        </Button>
+                      
                     </>
                 } />
                 <Route path=":id" element={<ProductDetails products={products} />} />
